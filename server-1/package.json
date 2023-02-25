@@ -1,0 +1,20 @@
+{
+  "name": "server-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "jest"
+  },
+  "author": "Matheus Donizete <math.d@live.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "msw": "^1.1.0"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "fastify": "^4.13.0"
+  }
+}

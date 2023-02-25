@@ -1,0 +1,13 @@
+{
+  "name": "server-2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Matheus Donizete<math.d@live.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.13.0"
+  }
+}
